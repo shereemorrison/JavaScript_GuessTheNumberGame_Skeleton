@@ -41,6 +41,3 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 });
-
-// add a reset button
-// add a counter button to show the amount of attempts
